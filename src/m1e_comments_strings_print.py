@@ -20,7 +20,7 @@
 #   feel free to play with it briefly, then move on to m2.
 #
 ###############################################################################
-
+import rosegraphics as rg
 
 print('Hello, World')
 print('hi there')
